@@ -1,5 +1,5 @@
 {
-  "name": "OpenVC",
+  "name": "OpenVC-Server",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -21,8 +21,8 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-OpenVC",
-    "stop": "egg-scripts stop --title=egg-server-OpenVC",
+    "start": "egg-scripts start --daemon --title=egg-server-OpenVC-Server",
+    "stop": "egg-scripts stop --title=egg-server-OpenVC-Server",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",
