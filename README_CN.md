@@ -1,6 +1,6 @@
 # OpenVC
 
-OpenVC is a set of open source, simple, easy to use, fast, containerized VPN networking and intranet penetration management software.
+OpenVC是一套开源、简单、易用、快速、容器化的VPN组网和内网穿透管理软件。
 
 ## QuickStart
 
