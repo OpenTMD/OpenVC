@@ -1,33 +1,16 @@
-# OpenVC
+# Open VPN Connect
 
-OpenVC is a set of open source, simple, easy to use, fast, containerized VPN networking and intranet penetration management software.
+<!--
+**wgfast/wgfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## QuickStart
+Here are some ideas to get you started:
 
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
-
-### Deploy
-
-```bash
-$ npm start
-$ npm stop
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
