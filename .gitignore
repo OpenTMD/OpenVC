@@ -13,4 +13,3 @@ run/
 *.un~
 typings/
 .nyc_output/
-/.idea
