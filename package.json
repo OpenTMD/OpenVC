@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "egg": "^3",
-    "egg-scripts": "^2"
+    "egg-mongoose": "^3.3.1",
+    "egg-scripts": "^2",
+    "egg-validate": "^2.0.2"
   },
   "devDependencies": {
     "egg-bin": "^5",
@@ -40,5 +42,5 @@
     "url": "https://github.com/OpenTMD/OpenVC.git"
   },
   "author": "Jerry Zhou",
-  "license": "MIT"
+  "license": "Apache-2.0"
 }
